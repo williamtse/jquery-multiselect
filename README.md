@@ -24,3 +24,5 @@ jquery dropdown multiselection
         }
       });
     });
+
+![demo](http://img.hb.aicdn.com/cd67d003b0aea312fe98b1da20aadf27942a1e036f1-CGrpyd_fw658)
